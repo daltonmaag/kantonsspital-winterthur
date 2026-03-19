@@ -1,0 +1,367 @@
+{
+glyphname = AE;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,194,l),
+(450,194,l),
+(450,212,l),
+(143,212,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(787,686,l),
+(787,704,l),
+(443,704,l),
+(10,0,l),
+(33,0,l),
+(443,667,l),
+(443,0,l),
+(787,0,l),
+(787,18,l),
+(463,18,l),
+(463,343,l),
+(757,343,l),
+(757,361,l),
+(463,361,l),
+(463,686,l)
+);
+}
+);
+width = 837;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(155,97,l),
+(598,97,l),
+(598,264,l),
+(248,264,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(952,532,l),
+(952,708,l),
+(339,708,l),
+(0,0,l),
+(241,0,l),
+(490,537,l),
+(490,0,l),
+(952,0,l),
+(952,177,l),
+(712,177,l),
+(712,280,l),
+(922,280,l),
+(922,447,l),
+(712,447,l),
+(712,532,l)
+);
+}
+);
+width = 986;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(152,142,l),
+(525,142,l),
+(525,231,l),
+(202,231,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(855,607,l),
+(855,696,l),
+(395,696,l),
+(12,0,l),
+(136,0,l),
+(472,617,l),
+(472,0,l),
+(855,0,l),
+(855,89,l),
+(586,89,l),
+(586,308,l),
+(825,308,l),
+(825,396,l),
+(586,396,l),
+(586,607,l)
+);
+}
+);
+width = 921;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,194,l),
+(437,194,l),
+(440,212,l),
+(133,212,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(860,686,l),
+(864,704,l),
+(520,704,l),
+(-38,0,l),
+(-15,0,l),
+(513,667,l),
+(395,0,l),
+(739,0,l),
+(743,18,l),
+(419,18,l),
+(476,343,l),
+(770,343,l),
+(773,361,l),
+(479,361,l),
+(536,686,l)
+);
+}
+);
+width = 837;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(125,142,l),
+(498,142,l),
+(514,231,l),
+(191,231,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(910,607,l),
+(926,696,l),
+(466,696,l),
+(-40,0,l),
+(84,0,l),
+(529,617,l),
+(420,0,l),
+(803,0,l),
+(819,89,l),
+(550,89,l),
+(589,308,l),
+(828,308,l),
+(843,396,l),
+(604,396,l),
+(641,607,l)
+);
+}
+);
+width = 921;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,97,l),
+(565,97,l),
+(595,264,l),
+(245,264,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(996,532,l),
+(1027,708,l),
+(414,708,l),
+(-50,0,l),
+(191,0,l),
+(535,537,l),
+(440,0,l),
+(902,0,l),
+(933,177,l),
+(693,177,l),
+(712,280,l),
+(922,280,l),
+(951,447,l),
+(741,447,l),
+(756,532,l)
+);
+}
+);
+width = 986;
+}
+);
+unicode = 198;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 138;
+y = 183;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 449;
+y = 183;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 449;
+y = 202;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 149;
+y = 202;
+}
+);
+},
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 757;
+y = 663;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 757;
+y = 683;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 442;
+y = 683;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 11;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 32;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 443;
+y = 658;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 443;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 757;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 757;
+y = 19;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 463;
+y = 19;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 463;
+y = 332;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 727;
+y = 332;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 727;
+y = 351;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 463;
+y = 351;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 463;
+y = 663;
+}
+);
+}
+);
+lib = {
+};
+name = AE;
+unicodes = (
+);
+width = 837;
+};
+};
+com.typesupply.AccentFactory.yCoordinates = {
+bottom = {
+name = origin;
+type = glyphMetric;
+};
+top = {
+name = capHeight;
+type = fontInfo;
+};
+};
+};
+}

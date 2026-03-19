@@ -1,0 +1,84 @@
+{
+glyphname = periodcentered.ss01;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+pos = (0,335);
+ref = period.ss01;
+}
+);
+width = 113;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+pos = (22,190);
+ref = period.ss01;
+}
+);
+width = 320;
+},
+{
+background = {
+shapes = (
+{
+pos = (4,269);
+ref = period;
+}
+);
+};
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+pos = (0,272);
+ref = period.ss01;
+}
+);
+width = 235;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+pos = (0,335);
+ref = period.ss01;
+}
+);
+width = 113;
+},
+{
+background = {
+shapes = (
+{
+pos = (4,269);
+ref = period;
+}
+);
+};
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+pos = (0,272);
+ref = period.ss01;
+}
+);
+width = 235;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+pos = (22,190);
+ref = period.ss01;
+}
+);
+width = 320;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+};
+}

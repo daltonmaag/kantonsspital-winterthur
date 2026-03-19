@@ -1,0 +1,227 @@
+{
+glyphname = H;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,0,l),
+(105,0,l),
+(105,704,l),
+(85,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(544,0,l),
+(564,0,l),
+(564,704,l),
+(544,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(95,353,l),
+(556,353,l),
+(556,371,l),
+(95,371,l)
+);
+}
+);
+width = 650;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,0,l),
+(272,0,l),
+(272,708,l),
+(50,708,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(483,0,l),
+(705,0,l),
+(705,708,l),
+(483,708,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(252,276,l),
+(505,276,l),
+(505,453,l),
+(252,453,l)
+);
+}
+);
+width = 755;
+},
+{
+guides = (
+{
+pos = (132,695);
+}
+);
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,0,l),
+(189,0,l),
+(189,695,l),
+(75,695,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(516,0,l),
+(630,0,l),
+(630,695,l),
+(516,695,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(169,304,l),
+(543,304,l),
+(543,397,l),
+(169,397,l)
+);
+}
+);
+width = 705;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(37,0,l),
+(57,0,l),
+(182,704,l),
+(162,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(496,0,l),
+(516,0,l),
+(641,704,l),
+(621,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(110,353,l),
+(571,353,l),
+(574,371,l),
+(113,371,l)
+);
+}
+);
+width = 649;
+},
+{
+guides = (
+{
+pos = (471,675);
+}
+);
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(23,0,l),
+(137,0,l),
+(260,695,l),
+(146,695,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(464,0,l),
+(578,0,l),
+(701,695,l),
+(587,695,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(171,307,l),
+(545,307,l),
+(561,395,l),
+(187,395,l)
+);
+}
+);
+width = 705;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,0,l),
+(222,0,l),
+(347,708,l),
+(125,708,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(433,0,l),
+(655,0,l),
+(780,708,l),
+(558,708,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(251,276,l),
+(504,276,l),
+(535,453,l),
+(282,453,l)
+);
+}
+);
+width = 755;
+}
+);
+unicode = 72;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+com.typesupply.AccentFactory.yCoordinates = {
+bottom = {
+name = origin;
+type = glyphMetric;
+};
+top = {
+name = capHeight;
+type = fontInfo;
+};
+};
+};
+}

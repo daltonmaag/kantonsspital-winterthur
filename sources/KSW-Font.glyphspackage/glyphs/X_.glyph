@@ -1,0 +1,240 @@
+{
+glyphname = X;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(447,0,l),
+(470,0,l),
+(53,704,l),
+(30,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(244,371,l),
+(30,0,l),
+(53,0,l),
+(260,361,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(258,347,l),
+(470,704,l),
+(447,704,l),
+(242,357,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(501,0,l),
+(764,0,l),
+(263,708,l),
+(0,708,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(275,416,l),
+(10,0,l),
+(263,0,l),
+(406,243,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,293,l),
+(745,708,l),
+(492,708,l),
+(350,466,l)
+);
+}
+);
+width = 764;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,0,l),
+(610,0,l),
+(178,695,l),
+(50,695,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(286,378,l),
+(51,0,l),
+(178,0,l),
+(347,290,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(376,317,l),
+(611,695,l),
+(484,695,l),
+(315,405,l)
+);
+}
+);
+width = 660;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(399,0,l),
+(422,0,l),
+(130,704,l),
+(107,704,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(262,371,l),
+(-18,0,l),
+(5,0,l),
+(276,361,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(272,347,l),
+(547,704,l),
+(524,704,l),
+(257,357,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(430,0,l),
+(558,0,l),
+(249,695,l),
+(121,695,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(300,378,l),
+(-2,0,l),
+(126,0,l),
+(346,290,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(380,317,l),
+(682,695,l),
+(554,695,l),
+(334,405,l)
+);
+}
+);
+width = 660;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(451,0,l),
+(714,0,l),
+(338,708,l),
+(75,708,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(299,416,l),
+(-40,0,l),
+(213,0,l),
+(399,243,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(482,293,l),
+(820,708,l),
+(567,708,l),
+(382,466,l)
+);
+}
+);
+width = 764;
+}
+);
+unicode = 88;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 50;
+y = 16;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 490;
+y = 36;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 511;
+y = 352;
+}
+);
+com.typesupply.AccentFactory.yCoordinates = {
+bottom = {
+name = origin;
+type = glyphMetric;
+};
+top = {
+name = capHeight;
+type = fontInfo;
+};
+};
+};
+}

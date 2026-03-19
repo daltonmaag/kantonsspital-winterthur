@@ -1,0 +1,102 @@
+{
+glyphname = questiondown.ss01;
+layers = (
+{
+guides = (
+{
+pos = (129,385);
+}
+);
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+angle = 180;
+pos = (482,539);
+ref = question.ss01;
+}
+);
+width = 482;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+angle = 180;
+pos = (538,564);
+ref = question.ss01;
+}
+);
+width = 536;
+},
+{
+background = {
+shapes = (
+{
+angle = 180;
+pos = (482,554);
+ref = question;
+}
+);
+};
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+angle = 180;
+pos = (538,555);
+ref = question.ss01;
+}
+);
+width = 538;
+},
+{
+guides = (
+{
+pos = (170,385);
+}
+);
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+angle = 180;
+pos = (482,539);
+ref = question.ss01;
+}
+);
+width = 482;
+},
+{
+background = {
+shapes = (
+{
+angle = 180;
+pos = (482,554);
+ref = question;
+}
+);
+};
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+angle = 180;
+pos = (538,555);
+ref = question.ss01;
+}
+);
+width = 538;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+angle = 180;
+pos = (538,564);
+ref = question.ss01;
+}
+);
+width = 536;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+};
+}

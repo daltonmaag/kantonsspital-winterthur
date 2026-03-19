@@ -1,0 +1,75 @@
+{
+glyphname = exclamdown;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+pos = (0,552);
+ref = exclam;
+scale = (1,-1);
+}
+);
+width = 226;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+pos = (0,568);
+ref = exclam;
+scale = (1,-1);
+}
+);
+width = 455;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+pos = (0,560);
+ref = exclam;
+scale = (1,-1);
+}
+);
+width = 321;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+angle = 180;
+pos = (243,552);
+ref = exclam;
+}
+);
+width = 256;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+angle = 180;
+pos = (336,560);
+ref = exclam;
+}
+);
+width = 361;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+angle = 180;
+pos = (456,568);
+ref = exclam;
+}
+);
+width = 455;
+}
+);
+unicode = 161;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+};
+}

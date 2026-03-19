@@ -1,0 +1,217 @@
+{
+glyphname = l;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (95,0);
+},
+{
+name = commaaccent;
+pos = (95,10);
+},
+{
+name = top;
+pos = (95,740);
+},
+{
+name = topright;
+pos = (160,540);
+}
+);
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,0,l),
+(105,0,l),
+(105,740,l),
+(85,740,l)
+);
+}
+);
+width = 190;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (162,0);
+},
+{
+name = commaaccent;
+pos = (162,10);
+},
+{
+name = top;
+pos = (162,740);
+},
+{
+name = topright;
+pos = (327,564);
+}
+);
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,0,l),
+(272,0,l),
+(272,740,l),
+(50,740,l)
+);
+}
+);
+width = 322;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (132,0);
+},
+{
+name = commaaccent;
+pos = (132,10);
+},
+{
+name = top;
+pos = (132,740);
+},
+{
+name = topright;
+pos = (244,551);
+}
+);
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,0,l),
+(189,0,l),
+(189,740,l),
+(75,740,l)
+);
+}
+);
+width = 264;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (47,0);
+},
+{
+name = commaaccent;
+pos = (49,10);
+},
+{
+name = top;
+pos = (178,740);
+},
+{
+name = topright;
+pos = (208,540);
+}
+);
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(37,0,l),
+(57,0,l),
+(188,740,l),
+(168,740,l)
+);
+}
+);
+width = 190;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (80,0);
+},
+{
+name = commaaccent;
+pos = (82,10);
+},
+{
+name = top;
+pos = (211,740);
+},
+{
+name = topright;
+pos = (289,551);
+}
+);
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(23,0,l),
+(137,0,l),
+(268,740,l),
+(154,740,l)
+);
+}
+);
+width = 264;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (112,0);
+},
+{
+name = commaaccent;
+pos = (114,10);
+},
+{
+name = top;
+pos = (243,740);
+},
+{
+name = topright;
+pos = (377,564);
+}
+);
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,0,l),
+(222,0,l),
+(353,740,l),
+(131,740,l)
+);
+}
+);
+width = 322;
+}
+);
+unicode = 108;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+com.typesupply.AccentFactory.yCoordinates = {
+bottom = {
+name = origin;
+type = glyphMetric;
+};
+top = {
+name = ascender;
+type = fontInfo;
+};
+};
+};
+}

@@ -1,0 +1,8336 @@
+{
+.appVersion = "3436";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Width;
+tag = wdth;
+},
+{
+name = Custom;
+tag = CUS1;
+}
+);
+classes = (
+{
+code = "colon exclam period question semicolon quotedblleft quotedblright quoteleft quoteright questiondown exclamdown periodcentered ellipsis comma divide";
+name = circular_punctuation;
+},
+{
+code = "colon.ss01 exclam.ss01 period.ss01 question.ss01 semicolon.ss01 quotedblleft.ss01 quotedblright.ss01 quoteleft.ss01 quoteright.ss01 questiondown.ss01 exclamdown.ss01 periodcentered.ss01 ellipsis.ss01 comma.ss01 divide.ss01";
+name = square_punctuation;
+},
+{
+code = "a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ";
+name = single_storey_a;
+},
+{
+code = "a.ss02 aacute.ss02 abreve.ss02 acircumflex.ss02 adieresis.ss02 agrave.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 ";
+name = double_storey_a;
+},
+{
+code = "zero one two three four five six seven eight nine ";
+name = "dflt-numbers";
+},
+{
+code = "zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum 
+";
+name = pnum;
+},
+{
+code = "two.ss04 three.ss04 six.ss04 nine.ss04 ";
+name = "dflt-numbers-ss04";
+},
+{
+code = "two.pnum.ss04 three.pnum.ss04 six.pnum.ss04 nine.pnum.ss04 
+";
+name = "pnum-ss04";
+}
+);
+customParameters = (
+{
+name = glyphOrder;
+value = (
+A,
+Aacute,
+Abreve,
+Acircumflex,
+Adieresis,
+Agrave,
+Amacron,
+Aogonek,
+Aring,
+Atilde,
+AE,
+AEacute,
+B,
+C,
+Cacute,
+Ccaron,
+Ccedilla,
+Cdotaccent,
+D,
+Eth,
+Dcaron,
+Dcroat,
+E,
+Eacute,
+Ebreve,
+Ecaron,
+Ecircumflex,
+Edieresis,
+Edotaccent,
+Egrave,
+Emacron,
+Eogonek,
+Etilde,
+F,
+G,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+H,
+I,
+Iacute,
+Ibreve,
+Icircumflex,
+Idieresis,
+Idotaccent,
+Igrave,
+Imacron,
+Iogonek,
+Itilde,
+J,
+K,
+Kcommaaccent,
+L,
+Lacute,
+Lcaron,
+Lcommaaccent,
+Ldot,
+Lslash,
+M,
+N,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+O,
+Oacute,
+Obreve,
+Ocircumflex,
+Odieresis,
+Ograve,
+Ohungarumlaut,
+Omacron,
+Oslash,
+Otilde,
+OE,
+P,
+Thorn,
+Q,
+R,
+Racute,
+Rcaron,
+Rcommaaccent,
+S,
+Sacute,
+Scaron,
+Scedilla,
+Scommaaccent,
+T,
+Tcaron,
+Tcedilla,
+Tcommaaccent,
+U,
+Uacute,
+Ubreve,
+Ucircumflex,
+Udieresis,
+Ugrave,
+Uhungarumlaut,
+Umacron,
+Uogonek,
+Uring,
+Utilde,
+V,
+W,
+Wacute,
+Wcircumflex,
+Wdieresis,
+Wgrave,
+X,
+Y,
+Yacute,
+Ycircumflex,
+Ydieresis,
+Ygrave,
+Ytilde,
+Z,
+Zacute,
+Zcaron,
+Zdotaccent,
+a,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+aring,
+atilde,
+ae,
+aeacute,
+b,
+c,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+d,
+eth,
+dcaron,
+dcroat,
+e,
+eacute,
+ebreve,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+etilde,
+f,
+g,
+gbreve,
+gcommaaccent,
+gdotaccent,
+h,
+i,
+dotlessi,
+iacute,
+ibreve,
+icircumflex,
+idieresis,
+igrave,
+imacron,
+iogonek,
+itilde,
+j,
+k,
+kcommaaccent,
+l,
+lacute,
+lcaron,
+lcommaaccent,
+ldot,
+lslash,
+m,
+n,
+nacute,
+ncaron,
+ncommaaccent,
+ntilde,
+o,
+oacute,
+obreve,
+ocircumflex,
+odieresis,
+ograve,
+ohungarumlaut,
+omacron,
+oslash,
+otilde,
+oe,
+p,
+thorn,
+q,
+r,
+racute,
+rcaron,
+rcommaaccent,
+s,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+germandbls,
+t,
+tcaron,
+tcedilla,
+tcommaaccent,
+u,
+uacute,
+ubreve,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+utilde,
+v,
+w,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+x,
+y,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave,
+ytilde,
+z,
+zacute,
+zcaron,
+zdotaccent,
+fi,
+fl,
+ordfeminine,
+ordmasculine,
+pi,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+onesuperior,
+twosuperior,
+threesuperior,
+fraction,
+onehalf,
+onequarter,
+threequarters,
+asterisk,
+backslash,
+periodcentered,
+bullet,
+colon,
+comma,
+ellipsis,
+exclam,
+exclamdown,
+numbersign,
+period,
+question,
+questiondown,
+quotedbl,
+quotesingle,
+semicolon,
+slash,
+underscore,
+braceleft,
+braceright,
+bracketleft,
+bracketright,
+parenleft,
+parenright,
+emdash,
+endash,
+hyphen,
+guillemotleft,
+guillemotright,
+guilsinglleft,
+guilsinglright,
+quotedblbase,
+quotedblleft,
+quotedblright,
+quoteleft,
+quoteright,
+quotesinglbase,
+space,
+Euro,
+cent,
+currency,
+dollar,
+florin,
+indianrupee,
+ruble,
+rupee,
+sterling,
+yen,
+plus,
+minus,
+multiply,
+divide,
+equal,
+notequal,
+greater,
+less,
+greaterequal,
+lessequal,
+plusminus,
+approxequal,
+asciitilde,
+logicalnot,
+infinity,
+integral,
+Ohm,
+increment,
+product,
+summation,
+radical,
+micro,
+partialdiff,
+percent,
+perthousand,
+lozenge,
+at,
+ampersand,
+paragraph,
+section,
+copyright,
+registered,
+trademark,
+degree,
+bar,
+brokenbar,
+dagger,
+liter,
+daggerdbl,
+estimated,
+asciicircum,
+acute,
+breve,
+caron,
+cedilla,
+circumflex,
+dieresis,
+dotaccent,
+grave,
+hungarumlaut,
+macron,
+ogonek,
+ring,
+tilde,
+turkishlira
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
+date = "2017-09-19 07:47:10 +0000";
+familyName = "KSW-Font";
+features = (
+{
+code = "sub @circular_punctuation by @square_punctuation; 
+";
+labels = (
+{
+language = dflt;
+value = "Square dots in punctuation marks";
+}
+);
+tag = ss01;
+},
+{
+code = "sub @single_storey_a by @double_storey_a;";
+labels = (
+{
+language = dflt;
+value = "Double-storey a";
+}
+);
+tag = ss02;
+},
+{
+code = "sub ampersand by ampersand.ss03;";
+labels = (
+{
+language = dflt;
+value = "Alternative ampersand";
+}
+);
+tag = ss03;
+},
+{
+code = "sub [ two three six nine ] by [two.ss04 three.ss04 six.ss04 nine.ss04 ];";
+labels = (
+{
+language = dflt;
+value = "Alternative 2, 3, 6, 9";
+}
+);
+tag = ss04;
+},
+{
+code = "sub @pnum by @dflt-numbers ;
+sub @pnum-ss04 by @dflt-numbers-ss04 ;
+";
+tag = tnum;
+},
+{
+code = "sub @dflt-numbers by @pnum ;
+sub @dflt-numbers-ss04 by @pnum-ss04 ;
+";
+tag = pnum;
+}
+);
+fontMaster = (
+{
+axesValues = (
+-50,
+100,
+0
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1050;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 1135;
+},
+{
+name = winDescent;
+value = 627;
+},
+{
+name = strikeoutPosition;
+value = 324;
+},
+{
+name = hheaLineGap;
+value = 100;
+}
+);
+guides = (
+{
+pos = (132,-185);
+},
+{
+angle = 180;
+pos = (307,711);
+}
+);
+iconName = Light;
+id = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+metricValues = (
+{
+over = 16;
+pos = 740;
+},
+{
+over = 7;
+pos = 702;
+},
+{
+over = 8;
+pos = 540;
+},
+{
+over = -9;
+},
+{
+over = -11;
+pos = -254;
+},
+{
+}
+);
+name = "100";
+userData = {
+GSCornerRadius = 135;
+};
+},
+{
+axesValues = (
+44,
+100,
+0
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1050;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 1135;
+},
+{
+name = winDescent;
+value = 627;
+},
+{
+name = strikeoutPosition;
+value = 328;
+},
+{
+name = hheaLineGap;
+value = 100;
+}
+);
+guides = (
+{
+angle = 180;
+pos = (252,-186);
+},
+{
+pos = (267,934);
+},
+{
+angle = 180;
+pos = (327,729);
+},
+{
+pos = (134,590);
+}
+);
+id = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+metricValues = (
+{
+over = 33;
+pos = 740;
+},
+{
+over = 10;
+pos = 697;
+},
+{
+over = 10;
+pos = 551;
+},
+{
+over = -8;
+},
+{
+over = -11;
+pos = -262;
+},
+{
+}
+);
+name = "500";
+userData = {
+GSCornerRadius = 75;
+};
+},
+{
+axesValues = (
+150,
+100,
+0
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1050;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 1135;
+},
+{
+name = winDescent;
+value = 627;
+},
+{
+name = strikeoutPosition;
+value = 338;
+},
+{
+name = hheaLineGap;
+value = 100;
+}
+);
+guides = (
+{
+pos = (286,821);
+},
+{
+angle = 180;
+pos = (286,-269);
+},
+{
+angle = 90;
+pos = (86,602);
+},
+{
+angle = 180;
+pos = (333,747);
+}
+);
+iconName = Bold;
+id = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+metricValues = (
+{
+over = 15;
+pos = 740;
+},
+{
+over = 13;
+pos = 713;
+},
+{
+over = 8;
+pos = 564;
+},
+{
+over = -8;
+},
+{
+over = -8;
+pos = -270;
+},
+{
+}
+);
+name = "900";
+userData = {
+GSCornerRadius = 65;
+};
+visible = 1;
+},
+{
+axesValues = (
+-50,
+100,
+1
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1050;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 1135;
+},
+{
+name = winDescent;
+value = 627;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = strikeoutPosition;
+value = 324;
+},
+{
+name = hheaLineGap;
+value = 100;
+}
+);
+iconName = Light;
+id = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+metricValues = (
+{
+over = 16;
+pos = 740;
+},
+{
+over = 7;
+pos = 702;
+},
+{
+over = 8;
+pos = 540;
+},
+{
+over = -9;
+},
+{
+over = -11;
+pos = -254;
+},
+{
+pos = 10;
+}
+);
+name = 100i;
+},
+{
+axesValues = (
+44,
+100,
+1
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1050;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 1135;
+},
+{
+name = winDescent;
+value = 627;
+},
+{
+name = hheaLineGap;
+value = 100;
+}
+);
+id = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+metricValues = (
+{
+over = 33;
+pos = 740;
+},
+{
+over = 10;
+pos = 697;
+},
+{
+over = 10;
+pos = 551;
+},
+{
+over = -8;
+},
+{
+over = -11;
+pos = -262;
+},
+{
+pos = 10;
+}
+);
+name = 500i;
+},
+{
+axesValues = (
+150,
+100,
+1
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1050;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 1135;
+},
+{
+name = winDescent;
+value = 627;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = strikeoutPosition;
+value = 338;
+},
+{
+name = hheaLineGap;
+value = 100;
+}
+);
+iconName = Bold;
+id = "15935870-0A58-425A-9765-D144975D2C89";
+metricValues = (
+{
+over = 15;
+pos = 740;
+},
+{
+over = 13;
+pos = 713;
+},
+{
+over = 8;
+pos = 564;
+},
+{
+over = -8;
+},
+{
+over = -8;
+pos = -270;
+},
+{
+pos = 10;
+}
+);
+name = 900i;
+}
+);
+instances = (
+{
+axesValues = (
+-50,
+100,
+0
+);
+customParameters = (
+{
+name = strikeoutPosition;
+value = 324;
+},
+{
+name = panose;
+value = (
+0,
+0,
+3,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"57B79CA8-97D8-4C58-BF53-6BAB6214BDE2" = 1;
+};
+name = Thin;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 250;
+},
+{
+axesValues = (
+-25,
+100,
+0
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+3,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = strikeoutPosition;
+value = 325;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"4D0F633C-81E1-4D6C-A640-637CE706A5C5" = 0.26596;
+"57B79CA8-97D8-4C58-BF53-6BAB6214BDE2" = 0.73404;
+};
+name = ExtraLight;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 275;
+},
+{
+axesValues = (
+0,
+100,
+0
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+4,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = strikeoutPosition;
+value = 327;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"4D0F633C-81E1-4D6C-A640-637CE706A5C5" = 0.53191;
+"57B79CA8-97D8-4C58-BF53-6BAB6214BDE2" = 0.46809;
+};
+name = Light;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 300;
+},
+{
+axesValues = (
+21,
+100,
+0
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+5,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = strikeoutPosition;
+value = 328;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"4D0F633C-81E1-4D6C-A640-637CE706A5C5" = 0.75532;
+"57B79CA8-97D8-4C58-BF53-6BAB6214BDE2" = 0.24468;
+};
+name = Regular;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+},
+{
+axesValues = (
+44,
+100,
+0
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+6,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = strikeoutPosition;
+value = 330;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"4D0F633C-81E1-4D6C-A640-637CE706A5C5" = 1;
+};
+name = Medium;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 500;
+},
+{
+axesValues = (
+70,
+100,
+0
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+7,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = strikeoutPosition;
+value = 332;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"4D0F633C-81E1-4D6C-A640-637CE706A5C5" = 0.75472;
+"A69CC389-2ECF-459C-A4E4-3168912CA6B4" = 0.24528;
+};
+name = SemiBold;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 600;
+},
+{
+axesValues = (
+100,
+100,
+0
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+8,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = strikeoutPosition;
+value = 334;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"4D0F633C-81E1-4D6C-A640-637CE706A5C5" = 0.4717;
+"A69CC389-2ECF-459C-A4E4-3168912CA6B4" = 0.5283;
+};
+isBold = 1;
+name = Bold;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 700;
+},
+{
+axesValues = (
+125,
+100,
+0
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+9,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = strikeoutPosition;
+value = 336;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"4D0F633C-81E1-4D6C-A640-637CE706A5C5" = 0.23585;
+"A69CC389-2ECF-459C-A4E4-3168912CA6B4" = 0.76415;
+};
+name = ExtraBold;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 800;
+},
+{
+axesValues = (
+150,
+100,
+0
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+10,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1";
+},
+{
+name = strikeoutPosition;
+value = 338;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"A69CC389-2ECF-459C-A4E4-3168912CA6B4" = 1;
+};
+name = Black;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 900;
+},
+{
+axesValues = (
+-50,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+2,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 324;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"A74DA284-3E8B-4DB3-928B-2F0253F1CAB3" = 1;
+};
+isItalic = 1;
+linkStyle = Thin;
+name = "Thin Italic";
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 250;
+},
+{
+axesValues = (
+-25,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+3,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 325;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"A74DA284-3E8B-4DB3-928B-2F0253F1CAB3" = 0.73404;
+"ED744E86-D388-498D-94EB-FEBBBDC8F1CA" = 0.26596;
+};
+isItalic = 1;
+linkStyle = ExtraLight;
+name = "ExtraLight Italic";
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 275;
+},
+{
+axesValues = (
+0,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+4,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 327;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"A74DA284-3E8B-4DB3-928B-2F0253F1CAB3" = 0.46809;
+"ED744E86-D388-498D-94EB-FEBBBDC8F1CA" = 0.53191;
+};
+isItalic = 1;
+linkStyle = Light;
+name = "Light Italic";
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 300;
+},
+{
+axesValues = (
+21,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+5,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 328;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"A74DA284-3E8B-4DB3-928B-2F0253F1CAB3" = 0.24468;
+"ED744E86-D388-498D-94EB-FEBBBDC8F1CA" = 0.75532;
+};
+isItalic = 1;
+name = Italic;
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+},
+{
+axesValues = (
+44,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+6,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 330;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"ED744E86-D388-498D-94EB-FEBBBDC8F1CA" = 1;
+};
+isItalic = 1;
+linkStyle = Medium;
+name = "Medium Italic";
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 500;
+},
+{
+axesValues = (
+70,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+7,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 332;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"15935870-0A58-425A-9765-D144975D2C89" = 0.24528;
+"ED744E86-D388-498D-94EB-FEBBBDC8F1CA" = 0.75472;
+};
+isItalic = 1;
+linkStyle = SemiBold;
+name = "SemiBold Italic";
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 600;
+},
+{
+axesValues = (
+100,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+8,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 334;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"15935870-0A58-425A-9765-D144975D2C89" = 0.5283;
+"ED744E86-D388-498D-94EB-FEBBBDC8F1CA" = 0.4717;
+};
+isBold = 1;
+isItalic = 1;
+name = "Bold Italic";
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 700;
+},
+{
+axesValues = (
+125,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+9,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 336;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"15935870-0A58-425A-9765-D144975D2C89" = 0.76415;
+"ED744E86-D388-498D-94EB-FEBBBDC8F1CA" = 0.23585;
+};
+isItalic = 1;
+linkStyle = ExtraBold;
+name = "ExtraBold Italic";
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 800;
+},
+{
+axesValues = (
+150,
+100,
+1
+);
+customParameters = (
+{
+name = panose;
+value = (
+0,
+0,
+10,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = hheaAscender;
+value = 1050;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = italicAngle;
+value = "1000";
+},
+{
+name = subscriptXOffset;
+value = -13;
+},
+{
+name = strikeoutPosition;
+value = 338;
+},
+{
+name = superscriptXOffset;
+value = 62;
+},
+{
+name = openTypeOS2VendorID;
+value = DAMA;
+}
+);
+instanceInterpolations = {
+"15935870-0A58-425A-9765-D144975D2C89" = 1;
+};
+isItalic = 1;
+linkStyle = Black;
+name = "Black Italic";
+properties = (
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = DAMA;
+}
+);
+}
+);
+weightClass = 900;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Ninad Kale (Devanagari), Jonny Pinhorn (Latin)";
+}
+);
+},
+{
+key = designerURL;
+value = "https://indiantypefoundry.com";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Dalton Maag Ltd";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "http://www.daltonmaag.com/";
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 1000;
+userData = {
+UFOFormat = 2;
+com.typemytype.robofont.b.layerStrokeColor = (
+1,
+0.75,
+0,
+0.7
+);
+com.typemytype.robofont.compileSettings.autohint = 1;
+com.typemytype.robofont.compileSettings.checkOutlines = 0;
+com.typemytype.robofont.compileSettings.createDummyDSIG = 1;
+com.typemytype.robofont.compileSettings.decompose = 0;
+com.typemytype.robofont.compileSettings.generateFormat = 0;
+com.typemytype.robofont.compileSettings.releaseMode = 0;
+com.typemytype.robofont.foreground.layerStrokeColor = (
+0.5,
+0,
+0.5,
+0.7
+);
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 1;
+magnetic = 5;
+name = "";
+x = 175;
+y = 380;
+}
+);
+com.typemytype.robofont.italicSlantOffset = 0;
+com.typemytype.robofont.layerOrder = (
+b
+);
+com.typemytype.robofont.segmentType = curve;
+com.typemytype.robofont.shouldAddPointsInSplineConversion = 1;
+com.typemytype.robofont.sort = (
+{
+ascending = (
+A,
+Agrave,
+Aacute,
+Acircumflex,
+Atilde,
+Adieresis,
+Aring,
+Amacron,
+Abreve,
+Aogonek,
+B,
+C,
+Ccedilla,
+Cacute,
+Cdotaccent,
+Ccaron,
+D,
+Dcaron,
+E,
+Egrave,
+Eacute,
+Ecircumflex,
+Edieresis,
+Emacron,
+Ebreve,
+Edotaccent,
+Eogonek,
+Ecaron,
+Etilde,
+F,
+G,
+Gbreve,
+Gdotaccent,
+Gcommaaccent,
+H,
+I,
+Igrave,
+Iacute,
+Icircumflex,
+Idieresis,
+Itilde,
+Imacron,
+Ibreve,
+Iogonek,
+Idotaccent,
+J,
+K,
+Kcommaaccent,
+L,
+Lacute,
+Lcommaaccent,
+Lcaron,
+M,
+N,
+Ntilde,
+Nacute,
+Ncommaaccent,
+Ncaron,
+O,
+Ograve,
+Oacute,
+Ocircumflex,
+Otilde,
+Odieresis,
+Omacron,
+Obreve,
+Ohungarumlaut,
+P,
+Q,
+R,
+Racute,
+Rcommaaccent,
+Rcaron,
+S,
+Sacute,
+Scedilla,
+Scaron,
+Scommaaccent,
+T,
+Tcedilla,
+Tcommaaccent,
+Tcaron,
+U,
+Ugrave,
+Uacute,
+Ucircumflex,
+Udieresis,
+Utilde,
+Umacron,
+Ubreve,
+Uring,
+Uhungarumlaut,
+Uogonek,
+V,
+W,
+Wcircumflex,
+Wgrave,
+Wacute,
+Wdieresis,
+X,
+Y,
+Yacute,
+Ycircumflex,
+Ydieresis,
+Ygrave,
+Ytilde,
+Z,
+Zacute,
+Zdotaccent,
+Zcaron,
+AE,
+AEacute,
+Eth,
+Oslash,
+Thorn,
+Dcroat,
+Ldot,
+Lslash,
+OE,
+litre,
+a,
+agrave,
+aacute,
+acircumflex,
+atilde,
+adieresis,
+aring,
+amacron,
+abreve,
+aogonek,
+b,
+c,
+ccedilla,
+cacute,
+cdotaccent,
+ccaron,
+d,
+dcaron,
+e,
+egrave,
+eacute,
+ecircumflex,
+edieresis,
+emacron,
+ebreve,
+edotaccent,
+eogonek,
+ecaron,
+etilde,
+f,
+g,
+gbreve,
+gdotaccent,
+gcommaaccent,
+h,
+i,
+igrave,
+iacute,
+icircumflex,
+idieresis,
+itilde,
+imacron,
+ibreve,
+iogonek,
+j,
+k,
+kcommaaccent,
+l,
+lacute,
+lcommaaccent,
+lcaron,
+m,
+n,
+ntilde,
+nacute,
+ncommaaccent,
+ncaron,
+o,
+ograve,
+oacute,
+ocircumflex,
+otilde,
+odieresis,
+omacron,
+obreve,
+ohungarumlaut,
+p,
+q,
+r,
+racute,
+rcommaaccent,
+rcaron,
+s,
+sacute,
+scedilla,
+scaron,
+scommaaccent,
+t,
+tcedilla,
+tcaron,
+tcommaaccent,
+u,
+ugrave,
+uacute,
+ucircumflex,
+udieresis,
+utilde,
+umacron,
+ubreve,
+uring,
+uhungarumlaut,
+uogonek,
+v,
+w,
+wcircumflex,
+wgrave,
+wacute,
+wdieresis,
+x,
+y,
+yacute,
+ydieresis,
+ycircumflex,
+ygrave,
+ytilde,
+z,
+zacute,
+zdotaccent,
+zcaron,
+ordfeminine,
+ordmasculine,
+germandbls,
+ae,
+aeacute,
+eth,
+oslash,
+thorn,
+dcroat,
+dotlessi,
+ldot,
+lslash,
+oe,
+florin,
+fi,
+fl,
+pi,
+apostrophemod,
+circumflex,
+caron,
+macronmod,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+twosuperior,
+threesuperior,
+onesuperior,
+onequarter,
+onehalf,
+threequarters,
+underscore,
+hyphen,
+endash,
+emdash,
+parenleft,
+bracketleft,
+braceleft,
+quotesinglbase,
+quotedblbase,
+parenright,
+bracketright,
+braceright,
+guillemotleft,
+quoteleft,
+quotedblleft,
+guilsinglleft,
+guillemotright,
+quoteright,
+quotedblright,
+guilsinglright,
+exclam,
+quotedbl,
+numbersign,
+percent,
+ampersand,
+quotesingle,
+asterisk,
+comma,
+period,
+slash,
+colon,
+semicolon,
+question,
+at,
+backslash,
+exclamdown,
+periodcentered,
+questiondown,
+dagger,
+daggerdbl,
+bullet,
+ellipsis,
+perthousand,
+plus,
+less,
+equal,
+greater,
+bar,
+asciitilde,
+logicalnot,
+plusminus,
+multiply,
+divide,
+fraction,
+partialdiff,
+product,
+summation,
+minus,
+divisionslash,
+bulletoperator,
+radical,
+infinity,
+integral,
+approxequal,
+notequal,
+lessequal,
+greaterequal,
+dollar,
+cent,
+sterling,
+currency,
+yen,
+rupee,
+Euro,
+asciicircum,
+grave,
+dieresis,
+macron,
+acute,
+cedilla,
+breve,
+dotaccent,
+ring,
+ogonek,
+tilde,
+hungarumlaut,
+brokenbar,
+section,
+copyright,
+registered,
+degree,
+paragraph,
+trademark,
+estimated,
+lozenge,
+space,
+ruble,
+.notdef,
+indianrupee,
+itfLogo,
+turkishlira,
+Delta.math,
+Omega.math,
+mu.math,
+zerowidthjoiner,
+zerowidthspace,
+nonbreakingspace,
+CR,
+softhyphen,
+space.copy_1,
+zerowidthnonjoiner,
+NULL
+);
+type = glyphList;
+}
+);
+com.typesupply.AccentFactory.structures = {
+AEacute = {
+group = uppercase;
+name = AEacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = AE;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 508;
+};
+Aacute = {
+group = uppercase;
+name = Aacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 193;
+};
+Abreve = {
+group = uppercase;
+name = Abreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 258;
+};
+Acircumflex = {
+group = uppercase;
+name = Acircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 194;
+};
+Adieresis = {
+group = uppercase;
+name = Adieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 196;
+};
+Agrave = {
+group = uppercase;
+name = Agrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 192;
+};
+Amacron = {
+group = uppercase;
+name = Amacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 256;
+};
+Aogonek = {
+group = uppercase;
+name = Aogonek;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+right,
+top
+);
+name = ogonek;
+parentAttachmentPoint = (
+right,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 260;
+};
+Aring = {
+group = uppercase;
+name = Aring;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = ring;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 197;
+};
+Atilde = {
+group = uppercase;
+name = Atilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = A;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 195;
+};
+Cacute = {
+group = uppercase;
+name = Cacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = C;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 262;
+};
+Ccaron = {
+group = uppercase;
+name = Ccaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = C;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 268;
+};
+Ccedilla = {
+group = uppercase;
+name = Ccedilla;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = C;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+top
+);
+name = cedilla;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 199;
+};
+Cdotaccent = {
+group = uppercase;
+name = Cdotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = C;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 266;
+};
+Dcaron = {
+group = uppercase;
+name = Dcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = D;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 270;
+};
+Eacute = {
+group = uppercase;
+name = Eacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 201;
+};
+Ebreve = {
+group = uppercase;
+name = Ebreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 276;
+};
+Ecaron = {
+group = uppercase;
+name = Ecaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 282;
+};
+Ecircumflex = {
+group = uppercase;
+name = Ecircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 202;
+};
+Edieresis = {
+group = uppercase;
+name = Edieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 203;
+};
+Edotaccent = {
+group = uppercase;
+name = Edotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 278;
+};
+Egrave = {
+group = uppercase;
+name = Egrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 200;
+};
+Emacron = {
+group = uppercase;
+name = Emacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 274;
+};
+Eogonek = {
+group = uppercase;
+name = Eogonek;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+right,
+top
+);
+name = ogonek;
+parentAttachmentPoint = (
+right,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 280;
+};
+Etilde = {
+group = uppercase;
+name = Etilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = E;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7868;
+};
+Gbreve = {
+group = uppercase;
+name = Gbreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = G;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 286;
+};
+Gcommaaccent = {
+group = uppercase;
+name = Gcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = G;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 290;
+};
+Gdotaccent = {
+group = uppercase;
+name = Gdotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = G;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 288;
+};
+Iacute = {
+group = uppercase;
+name = Iacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 205;
+};
+Ibreve = {
+group = uppercase;
+name = Ibreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 300;
+};
+Icircumflex = {
+group = uppercase;
+name = Icircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 206;
+};
+Idieresis = {
+group = uppercase;
+name = Idieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 207;
+};
+Idotaccent = {
+group = uppercase;
+name = Idotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 304;
+};
+Igrave = {
+group = uppercase;
+name = Igrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 204;
+};
+Imacron = {
+group = uppercase;
+name = Imacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 298;
+};
+Iogonek = {
+group = uppercase;
+name = Iogonek;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+right,
+top
+);
+name = ogonek;
+parentAttachmentPoint = (
+right,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 302;
+};
+Itilde = {
+group = uppercase;
+name = Itilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = I;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 296;
+};
+Kcommaaccent = {
+group = uppercase;
+name = Kcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = K;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 310;
+};
+Lacute = {
+group = uppercase;
+name = Lacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = L;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 313;
+};
+Lcaron = {
+group = uppercase;
+name = Lcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = L;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+right,
+top
+);
+name = commaaccent;
+parentAttachmentPoint = (
+right,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 317;
+};
+Lcommaaccent = {
+group = uppercase;
+name = Lcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = L;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 315;
+};
+Ldot = {
+group = uppercase;
+name = Ldot;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = L;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+right,
+center
+);
+name = dotaccent;
+parentAttachmentPoint = (
+right,
+center
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 319;
+};
+Nacute = {
+group = uppercase;
+name = Nacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = N;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 323;
+};
+Ncaron = {
+group = uppercase;
+name = Ncaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = N;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 327;
+};
+Ncommaaccent = {
+group = uppercase;
+name = Ncommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = N;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 325;
+};
+Ntilde = {
+group = uppercase;
+name = Ntilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = N;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 209;
+};
+Oacute = {
+group = uppercase;
+name = Oacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = O;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 211;
+};
+Obreve = {
+group = uppercase;
+name = Obreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = O;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 334;
+};
+Ocircumflex = {
+group = uppercase;
+name = Ocircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = O;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 212;
+};
+Odieresis = {
+group = uppercase;
+name = Odieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = O;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 214;
+};
+Ograve = {
+group = uppercase;
+name = Ograve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = O;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 210;
+};
+Ohungarumlaut = {
+group = uppercase;
+name = Ohungarumlaut;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = O;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = hungarumlaut;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 336;
+};
+Omacron = {
+group = uppercase;
+name = Omacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = O;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 332;
+};
+Otilde = {
+group = uppercase;
+name = Otilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = O;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 213;
+};
+Racute = {
+group = uppercase;
+name = Racute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = R;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 340;
+};
+Rcaron = {
+group = uppercase;
+name = Rcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = R;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 344;
+};
+Rcommaaccent = {
+group = uppercase;
+name = Rcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = R;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 342;
+};
+Sacute = {
+group = uppercase;
+name = Sacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = S;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 346;
+};
+Scaron = {
+group = uppercase;
+name = Scaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = S;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 352;
+};
+Scedilla = {
+group = uppercase;
+name = Scedilla;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = S;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+top
+);
+name = cedilla;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 350;
+};
+Scommaaccent = {
+group = uppercase;
+name = Scommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = S;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 536;
+};
+Tcaron = {
+group = uppercase;
+name = Tcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = T;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 356;
+};
+Tcommaaccent = {
+group = uppercase;
+name = Tcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = T;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 354;
+};
+Uacute = {
+group = uppercase;
+name = Uacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 218;
+};
+Ubreve = {
+group = uppercase;
+name = Ubreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 364;
+};
+Ucircumflex = {
+group = uppercase;
+name = Ucircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 219;
+};
+Udieresis = {
+group = uppercase;
+name = Udieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 220;
+};
+Ugrave = {
+group = uppercase;
+name = Ugrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 217;
+};
+Uhungarumlaut = {
+group = uppercase;
+name = Uhungarumlaut;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = hungarumlaut;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 368;
+};
+Umacron = {
+group = uppercase;
+name = Umacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 362;
+};
+Uogonek = {
+group = uppercase;
+name = Uogonek;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+top
+);
+name = ogonek;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 370;
+};
+Uring = {
+group = uppercase;
+name = Uring;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = ring;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 366;
+};
+Utilde = {
+group = uppercase;
+name = Utilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = U;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 360;
+};
+Wacute = {
+group = uppercase;
+name = Wacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = W;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7810;
+};
+Wcircumflex = {
+group = uppercase;
+name = Wcircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = W;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 372;
+};
+Wdieresis = {
+group = uppercase;
+name = Wdieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = W;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7812;
+};
+Wgrave = {
+group = uppercase;
+name = Wgrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = W;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7808;
+};
+Yacute = {
+group = uppercase;
+name = Yacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = Y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 221;
+};
+Ycircumflex = {
+group = uppercase;
+name = Ycircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = Y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 374;
+};
+Ydieresis = {
+group = uppercase;
+name = Ydieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = Y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 376;
+};
+Ygrave = {
+group = uppercase;
+name = Ygrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = Y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7922;
+};
+Ytilde = {
+group = uppercase;
+name = Ytilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = Y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7928;
+};
+Zacute = {
+group = uppercase;
+name = Zacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = Z;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 377;
+};
+Zcaron = {
+group = uppercase;
+name = Zcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = Z;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 381;
+};
+Zdotaccent = {
+group = uppercase;
+name = Zdotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = Z;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 379;
+};
+aacute = {
+group = lowercase;
+name = aacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 225;
+};
+abreve = {
+group = lowercase;
+name = abreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 259;
+};
+acircumflex = {
+group = lowercase;
+name = acircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 226;
+};
+adieresis = {
+group = lowercase;
+name = adieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 228;
+};
+aeacute = {
+group = lowercase;
+name = aeacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = ae;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 509;
+};
+agrave = {
+group = lowercase;
+name = agrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 224;
+};
+amacron = {
+group = lowercase;
+name = amacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 257;
+};
+aogonek = {
+group = lowercase;
+name = aogonek;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+right,
+top
+);
+name = ogonek;
+parentAttachmentPoint = (
+right,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 261;
+};
+aring = {
+group = lowercase;
+name = aring;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = ring;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 229;
+};
+atilde = {
+group = lowercase;
+name = atilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = a;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 227;
+};
+cacute = {
+group = lowercase;
+name = cacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = c;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 263;
+};
+ccaron = {
+group = lowercase;
+name = ccaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = c;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 269;
+};
+ccedilla = {
+group = lowercase;
+name = ccedilla;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = c;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+top
+);
+name = cedilla;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 231;
+};
+cdotaccent = {
+group = lowercase;
+name = cdotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = c;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 267;
+};
+dcaron = {
+group = lowercase;
+name = dcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = d;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+"left of",
+top
+);
+name = commaaccent.ascender;
+parentAttachmentPoint = (
+right,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 271;
+};
+eacute = {
+group = lowercase;
+name = eacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 233;
+};
+ebreve = {
+group = lowercase;
+name = ebreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 277;
+};
+ecaron = {
+group = lowercase;
+name = ecaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 283;
+};
+ecircumflex = {
+group = lowercase;
+name = ecircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 234;
+};
+edieresis = {
+group = lowercase;
+name = edieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 235;
+};
+edotaccent = {
+group = lowercase;
+name = edotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 279;
+};
+egrave = {
+group = lowercase;
+name = egrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 232;
+};
+emacron = {
+group = lowercase;
+name = emacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 275;
+};
+eogonek = {
+group = lowercase;
+name = eogonek;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+top
+);
+name = ogonek;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 281;
+};
+etilde = {
+group = lowercase;
+name = etilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = e;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7869;
+};
+gbreve = {
+group = lowercase;
+name = gbreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = g;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 287;
+};
+gcommaaccent = {
+group = lowercase;
+name = gcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = g;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = commaaccent.flipped;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 291;
+};
+gdotaccent = {
+group = lowercase;
+name = gdotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = g;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 289;
+};
+iacute = {
+group = lowercase;
+name = iacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = dotlessi;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 237;
+};
+ibreve = {
+group = lowercase;
+name = ibreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = dotlessi;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 301;
+};
+icircumflex = {
+group = lowercase;
+name = icircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = dotlessi;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 238;
+};
+idieresis = {
+group = lowercase;
+name = idieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = dotlessi;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 239;
+};
+igrave = {
+group = lowercase;
+name = igrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = dotlessi;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 236;
+};
+imacron = {
+group = lowercase;
+name = imacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = dotlessi;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 299;
+};
+iogonek = {
+group = lowercase;
+name = iogonek;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = i;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+right,
+top
+);
+name = ogonek;
+parentAttachmentPoint = (
+right,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 303;
+};
+itilde = {
+group = lowercase;
+name = itilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = dotlessi;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 297;
+};
+kcommaaccent = {
+group = lowercase;
+name = kcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = k;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 311;
+};
+lacute = {
+group = lowercase;
+name = lacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = l;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute.ascender;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 314;
+};
+lcaron = {
+group = lowercase;
+name = lcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = l;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+"left of",
+top
+);
+name = commaaccent.ascender;
+parentAttachmentPoint = (
+right,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 318;
+};
+lcommaaccent = {
+group = lowercase;
+name = lcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = l;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 316;
+};
+ldot = {
+group = lowercase;
+name = ldot;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = l;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+"left of",
+center
+);
+name = dotaccent;
+parentAttachmentPoint = (
+right,
+center
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 320;
+};
+nacute = {
+group = lowercase;
+name = nacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = n;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 324;
+};
+ncaron = {
+group = lowercase;
+name = ncaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = n;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 328;
+};
+ncommaaccent = {
+group = lowercase;
+name = ncommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = n;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 326;
+};
+ntilde = {
+group = lowercase;
+name = ntilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = n;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 241;
+};
+oacute = {
+group = lowercase;
+name = oacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = o;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 243;
+};
+obreve = {
+group = lowercase;
+name = obreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = o;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 335;
+};
+ocircumflex = {
+group = lowercase;
+name = ocircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = o;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 244;
+};
+odieresis = {
+group = lowercase;
+name = odieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = o;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 246;
+};
+ograve = {
+group = lowercase;
+name = ograve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = o;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 242;
+};
+ohungarumlaut = {
+group = lowercase;
+name = ohungarumlaut;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = o;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = hungarumlaut;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 337;
+};
+omacron = {
+group = lowercase;
+name = omacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = o;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 333;
+};
+otilde = {
+group = lowercase;
+name = otilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = o;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 245;
+};
+racute = {
+group = lowercase;
+name = racute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = r;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 341;
+};
+rcaron = {
+group = lowercase;
+name = rcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = r;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 345;
+};
+rcommaaccent = {
+group = lowercase;
+name = rcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = r;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 343;
+};
+sacute = {
+group = lowercase;
+name = sacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = s;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 347;
+};
+scaron = {
+group = lowercase;
+name = scaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = s;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 353;
+};
+scedilla = {
+group = lowercase;
+name = scedilla;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = s;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+top
+);
+name = cedilla;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 351;
+};
+scommaaccent = {
+group = lowercase;
+name = scommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = s;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 537;
+};
+tcaron = {
+group = lowercase;
+name = tcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = t;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+left,
+top
+);
+name = commaaccent.ascender;
+parentAttachmentPoint = (
+right,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 357;
+};
+tcommaaccent = {
+group = lowercase;
+name = tcommaaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = t;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+above
+);
+name = commaaccent;
+parentAttachmentPoint = (
+center,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 539;
+};
+uacute = {
+group = lowercase;
+name = uacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 250;
+};
+ubreve = {
+group = lowercase;
+name = ubreve;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = breve;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 365;
+};
+ucircumflex = {
+group = lowercase;
+name = ucircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 251;
+};
+udieresis = {
+group = lowercase;
+name = udieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 252;
+};
+ugrave = {
+group = lowercase;
+name = ugrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 249;
+};
+uhungarumlaut = {
+group = lowercase;
+name = uhungarumlaut;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = hungarumlaut;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 369;
+};
+umacron = {
+group = lowercase;
+name = umacron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = macron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 363;
+};
+uogonek = {
+group = lowercase;
+name = uogonek;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+right,
+top
+);
+name = ogonek;
+parentAttachmentPoint = (
+right,
+bottom
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 371;
+};
+uring = {
+group = lowercase;
+name = uring;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = ring;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 367;
+};
+utilde = {
+group = lowercase;
+name = utilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = u;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 361;
+};
+wacute = {
+group = lowercase;
+name = wacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = w;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7811;
+};
+wcircumflex = {
+group = lowercase;
+name = wcircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = w;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 373;
+};
+wdieresis = {
+group = lowercase;
+name = wdieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = w;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7813;
+};
+wgrave = {
+group = lowercase;
+name = wgrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = w;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7809;
+};
+yacute = {
+group = lowercase;
+name = yacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 253;
+};
+ycircumflex = {
+group = lowercase;
+name = ycircumflex;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = circumflex;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 375;
+};
+ydieresis = {
+group = lowercase;
+name = ydieresis;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dieresis;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 255;
+};
+ygrave = {
+group = lowercase;
+name = ygrave;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = grave;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7923;
+};
+ytilde = {
+group = lowercase;
+name = ytilde;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = y;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = tilde;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 7929;
+};
+zacute = {
+group = lowercase;
+name = zacute;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = z;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = acute;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 378;
+};
+zcaron = {
+group = lowercase;
+name = zcaron;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = z;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = caron;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 382;
+};
+zdotaccent = {
+group = lowercase;
+name = zdotaccent;
+parts = (
+{
+attachmentPoint = (
+origin,
+origin
+);
+name = z;
+parentAttachmentPoint = (
+origin,
+origin
+);
+parts = (
+{
+attachmentPoint = (
+center,
+below
+);
+name = dotaccent;
+parentAttachmentPoint = (
+center,
+top
+);
+parts = (
+);
+}
+);
+}
+);
+unicodeValue = 380;
+};
+};
+com.typesupply.AccentFactory.version = (
+1,
+0,
+"beta 1"
+);
+};
+versionMajor = 1;
+versionMinor = 0;
+}

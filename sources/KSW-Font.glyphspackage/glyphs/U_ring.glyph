@@ -1,0 +1,87 @@
+{
+glyphname = Uring;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (184,143);
+ref = ring;
+}
+);
+width = 629;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (218,147);
+ref = ring;
+}
+);
+width = 719;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (226,145);
+ref = ring;
+}
+);
+width = 690;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (209,143);
+ref = ring;
+}
+);
+width = 629;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (252,145);
+ref = ring;
+}
+);
+width = 690;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (244,147);
+ref = ring;
+}
+);
+width = 719;
+}
+);
+unicode = 366;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 8;
+};
+}

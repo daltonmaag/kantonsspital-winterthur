@@ -1,0 +1,87 @@
+{
+glyphname = edotaccent;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (237,-22);
+ref = dotaccent;
+}
+);
+width = 628;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (211,7);
+ref = dotaccent;
+}
+);
+width = 616;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (239,0);
+ref = dotaccent;
+}
+);
+width = 617;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (233,-22);
+ref = dotaccent;
+}
+);
+width = 628;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (239,0);
+ref = dotaccent;
+}
+);
+width = 617;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (225,0);
+ref = dotaccent;
+}
+);
+width = 616;
+}
+);
+unicode = 279;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 8;
+};
+}

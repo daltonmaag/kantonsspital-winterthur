@@ -1,0 +1,297 @@
+{
+glyphname = W;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,0,l),
+(242,0,l),
+(459,697,l),
+(443,697,l),
+(660,0,l),
+(680,0,l),
+(869,704,l),
+(847,704,l),
+(664,15,l),
+(676,15,l),
+(462,704,l),
+(440,704,l),
+(226,15,l),
+(240,15,l),
+(57,704,l),
+(35,704,l)
+);
+}
+);
+width = 904;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(192,0,l),
+(468,0,l),
+(560,451,l),
+(540,451,l),
+(632,0,l),
+(908,0,l),
+(1070,708,l),
+(831,708,l),
+(745,112,l),
+(799,112,l),
+(671,708,l),
+(429,708,l),
+(301,112,l),
+(355,112,l),
+(269,708,l),
+(30,708,l)
+);
+}
+);
+width = 1100;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(216,-1,l),
+(344,0,l),
+(514,578,l),
+(484,578,l),
+(645,0,l),
+(774,0,l),
+(980,695,l),
+(858,695,l),
+(696,66,l),
+(730,65,l),
+(568,695,l),
+(440,695,l),
+(267,67,l),
+(300,67,l),
+(140,695,l),
+(19,695,l)
+);
+}
+);
+width = 999;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,0,l),
+(196,0,l),
+(536,697,l),
+(518,697,l),
+(612,0,l),
+(632,0,l),
+(946,704,l),
+(922,704,l),
+(617,15,l),
+(633,15,l),
+(541,704,l),
+(517,704,l),
+(181,15,l),
+(197,15,l),
+(136,704,l),
+(112,704,l)
+);
+}
+);
+width = 904;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,-1,l),
+(292,0,l),
+(564,578,l),
+(534,578,l),
+(593,0,l),
+(722,0,l),
+(1051,695,l),
+(929,695,l),
+(656,66,l),
+(690,65,l),
+(639,695,l),
+(511,695,l),
+(227,67,l),
+(260,67,l),
+(211,695,l),
+(90,695,l)
+);
+}
+);
+width = 999;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(142,0,l),
+(418,0,l),
+(590,451,l),
+(570,451,l),
+(582,0,l),
+(858,0,l),
+(1145,708,l),
+(906,708,l),
+(715,112,l),
+(769,112,l),
+(746,708,l),
+(504,708,l),
+(271,112,l),
+(325,112,l),
+(344,708,l),
+(105,708,l)
+);
+}
+);
+width = 1100;
+}
+);
+unicode = 87;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 229;
+y = -2;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 245;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 473;
+y = 727;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 435;
+y = 727;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 638;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 654;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 877;
+y = 684;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 860;
+y = 684;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 636;
+y = 7;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 650;
+y = 5;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 459;
+y = 684;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 442;
+y = 684;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 230;
+y = 10;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 239;
+y = 10;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 54;
+y = 684;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 36;
+y = 684;
+}
+);
+}
+);
+lib = {
+};
+name = W;
+unicodes = (
+);
+width = 904;
+};
+};
+com.typesupply.AccentFactory.yCoordinates = {
+bottom = {
+name = origin;
+type = glyphMetric;
+};
+top = {
+name = capHeight;
+type = fontInfo;
+};
+};
+};
+}

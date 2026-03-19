@@ -1,0 +1,87 @@
+{
+glyphname = acircumflex;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (175,0);
+ref = circumflex;
+}
+);
+width = 671;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (171,0);
+ref = circumflex;
+}
+);
+width = 680;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (186,0);
+ref = circumflex;
+}
+);
+width = 678;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (175,0);
+ref = circumflex;
+}
+);
+width = 671;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (186,0);
+ref = circumflex;
+}
+);
+width = 678;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (171,0);
+ref = circumflex;
+}
+);
+width = 680;
+}
+);
+unicode = 226;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+};
+}

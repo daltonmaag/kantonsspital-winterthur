@@ -1,0 +1,175 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+guides = (
+{
+pos = (96,578);
+}
+);
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(154,512,l),
+(222,704,l),
+(190,704,l),
+(136,512,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(48,512,l),
+(116,704,l),
+(84,704,l),
+(30,512,l)
+);
+}
+);
+width = 252;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,413,l),
+(598,708,l),
+(378,708,l),
+(334,413,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(210,413,l),
+(328,708,l),
+(108,708,l),
+(64,413,l)
+);
+}
+);
+width = 648;
+},
+{
+guides = (
+{
+pos = (432,695);
+}
+);
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(292,457,l),
+(397,695,l),
+(273,695,l),
+(212,457,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(112,457,l),
+(217,695,l),
+(93,695,l),
+(32,457,l)
+);
+}
+);
+width = 422;
+},
+{
+guides = (
+{
+pos = (221,578);
+}
+);
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(201,512,l),
+(303,704,l),
+(271,704,l),
+(183,512,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(91,512,l),
+(193,704,l),
+(161,704,l),
+(73,512,l)
+);
+}
+);
+width = 256;
+},
+{
+guides = (
+{
+pos = (851,675);
+}
+);
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(341,457,l),
+(488,695,l),
+(364,695,l),
+(261,457,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(161,457,l),
+(308,695,l),
+(184,695,l),
+(81,457,l)
+);
+}
+);
+width = 422;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(515,413,l),
+(685,708,l),
+(465,708,l),
+(369,413,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(233,413,l),
+(403,708,l),
+(183,708,l),
+(87,413,l)
+);
+}
+);
+width = 660;
+}
+);
+metricLeft = quoteright;
+metricRight = quoteright;
+unicode = 8221;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 8;
+};
+}

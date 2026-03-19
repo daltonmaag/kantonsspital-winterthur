@@ -1,0 +1,181 @@
+{
+glyphname = Y;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (260,683);
+}
+);
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,295,l),
+(250,0,l),
+(270,0,l),
+(270,295,l),
+(488,704,l),
+(464,704,l),
+(255,309,l),
+(264,309,l),
+(54,704,l),
+(30,704,l)
+);
+}
+);
+width = 518;
+},
+{
+anchors = (
+{
+name = top;
+pos = (366,711);
+}
+);
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(254,215,l),
+(254,0,l),
+(476,0,l),
+(476,215,l),
+(730,708,l),
+(480,708,l),
+(327,368,l),
+(407,368,l),
+(254,708,l),
+(0,708,l)
+);
+}
+);
+width = 730;
+},
+{
+anchors = (
+{
+name = top;
+pos = (303,696);
+}
+);
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(246,252,l),
+(246,0,l),
+(360,0,l),
+(360,252,l),
+(590,695,l),
+(464,695,l),
+(278,300,l),
+(329,300,l),
+(142,695,l),
+(15,695,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = top;
+pos = (333,683);
+}
+);
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(254,295,l),
+(202,0,l),
+(222,0,l),
+(274,295,l),
+(565,704,l),
+(541,704,l),
+(262,309,l),
+(271,309,l),
+(131,704,l),
+(107,704,l)
+);
+}
+);
+width = 518;
+},
+{
+anchors = (
+{
+name = top;
+pos = (374,696);
+}
+);
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(239,252,l),
+(194,0,l),
+(308,0,l),
+(353,252,l),
+(661,695,l),
+(533,695,l),
+(277,300,l),
+(330,300,l),
+(213,695,l),
+(86,695,l)
+);
+}
+);
+width = 605;
+},
+{
+anchors = (
+{
+name = top;
+pos = (442,711);
+}
+);
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(242,215,l),
+(204,0,l),
+(426,0,l),
+(464,215,l),
+(805,708,l),
+(555,708,l),
+(342,368,l),
+(422,368,l),
+(329,708,l),
+(75,708,l)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 89;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+com.typesupply.AccentFactory.yCoordinates = {
+bottom = {
+name = origin;
+type = glyphMetric;
+};
+top = {
+name = capHeight;
+type = fontInfo;
+};
+};
+};
+}

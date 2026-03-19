@@ -1,0 +1,275 @@
+{
+glyphname = f;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,0,l),
+(128,0,l),
+(128,578,ls),
+(128,675,o),
+(164,720,o),
+(283,720,c),
+(283,740,l),
+(152,740,o),
+(108,683,o),
+(108,578,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(20,519,l),
+(283,519,l),
+(283,540,l),
+(20,540,l)
+);
+}
+);
+width = 318;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,0,l),
+(292,0,l),
+(292,539,ls),
+(292,595,o),
+(314,611,o),
+(375,604,c),
+(375,793,l),
+(182,810,o),
+(70,722,o),
+(70,559,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(10,379,l),
+(375,379,l),
+(375,564,l),
+(10,564,l)
+);
+}
+);
+width = 385;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,0,l),
+(204,0,l),
+(204,590,ls),
+(204,653,o),
+(228,677,o),
+(298,677,c),
+(298,772,l),
+(154,772,o),
+(89,717,o),
+(89,590,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(24,458,l),
+(306,458,l),
+(306,551,l),
+(24,551,l)
+);
+}
+);
+width = 332;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,0,l),
+(80,0,l),
+(182,578,ls),
+(199,675,o),
+(243,720,o),
+(362,720,c),
+(366,740,l),
+(235,740,o),
+(181,683,o),
+(162,578,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(64,519,l),
+(327,519,l),
+(331,540,l),
+(68,540,l)
+);
+}
+);
+width = 318;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(37,0,l),
+(152,0,l),
+(256,590,ls),
+(267,653,o),
+(296,677,o),
+(366,677,c),
+(382,772,l),
+(238,772,o),
+(164,717,o),
+(141,590,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(53,458,l),
+(335,458,l),
+(351,551,l),
+(69,551,l)
+);
+}
+);
+width = 332;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,0,l),
+(242,0,l),
+(337,539,ls),
+(347,595,o),
+(372,611,o),
+(432,604,c),
+(465,793,l),
+(275,810,o),
+(148,722,o),
+(119,559,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(27,379,l),
+(392,379,l),
+(425,564,l),
+(60,564,l)
+);
+}
+);
+width = 385;
+}
+);
+unicode = 102;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 108;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 128;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 128;
+y = 609;
+},
+{
+smooth = 0;
+x = 128;
+y = 701;
+},
+{
+smooth = 0;
+x = 162;
+y = 742;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 275;
+y = 742;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 275;
+y = 753;
+},
+{
+smooth = 0;
+x = 158;
+y = 753;
+},
+{
+smooth = 0;
+x = 108;
+y = 711;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 108;
+y = 609;
+}
+);
+}
+);
+lib = {
+};
+name = f;
+unicodes = (
+);
+width = 318;
+};
+};
+com.typesupply.AccentFactory.yCoordinates = {
+bottom = {
+name = origin;
+type = glyphMetric;
+};
+top = {
+name = ascender;
+type = fontInfo;
+};
+};
+};
+}

@@ -1,0 +1,87 @@
+{
+glyphname = Ydieresis;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (101,143);
+ref = dieresis;
+}
+);
+width = 518;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (157,147);
+ref = dieresis;
+}
+);
+width = 730;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (147,145);
+ref = dieresis;
+}
+);
+width = 605;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (126,143);
+ref = dieresis;
+}
+);
+width = 518;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (173,145);
+ref = dieresis;
+}
+);
+width = 605;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (183,147);
+ref = dieresis;
+}
+);
+width = 730;
+}
+);
+unicode = 376;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+};
+}

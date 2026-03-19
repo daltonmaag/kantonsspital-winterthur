@@ -1,0 +1,87 @@
+{
+glyphname = Scedilla;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (196,0);
+ref = cedilla;
+}
+);
+width = 536;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (184,-7);
+ref = cedilla;
+}
+);
+width = 625;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (206,-7);
+ref = cedilla;
+}
+);
+width = 604;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (196,0);
+ref = cedilla;
+}
+);
+width = 528;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (205,0);
+ref = cedilla;
+}
+);
+width = 599;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (199,-7);
+ref = cedilla;
+}
+);
+width = 642;
+}
+);
+unicode = 350;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 8;
+};
+}

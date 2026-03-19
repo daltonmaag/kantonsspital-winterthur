@@ -1,13 +1,36 @@
-# Poppins
+# KSW-Font
 
-During the 1920s, Central European type foundries joined the modernist movements in art and design. Modernism was truly international in scope; only three years after the founding of the German Bauhaus school, several of its painting instructors were already exhibiting their work in Calcutta.
 
-Geometric sans-serif typefaces have been a popular design element ever since these actors took to the world’s stage. Poppins is one of the newest comers to this long tradition. An open-source family supporting both Devanagari and Latin, this typeface is an internationalist take on the geometric sans genre. Many of the Latin glyphs — the ampersand, for instance — are far more constructed and rationalist than in previously released geometric typefaces. Poppins’s Devanagari design is particularly new. It is likely the first-ever large Devanagari family in this style that has been brought to market.
+## About
 
-The Poppins family includes 9 upright weights, from Thin through Black with 9 complementary italics for each. Each font includes 1014 glyphs, including all of the unique conjunct forms necessary for typesetting Indian languages like Hindi, Marathi, Nepali, etc. Just like the Latin glyphs, the Devanagari forms in Poppins are based on pure geometry (particularly circles). Poppins’s letters are practically monolinear, although optical corrections have been applied to stroke joints where necessary, to maintain an even color in text. The Devanagari base character height and the Latin ascender height are equal; Latin capital letters are shorter than the Devanagari characters, and the Latin x-height is set rather high.
+KSW-Font is a forked version of Google Fonts Poppins, created for Kantonsspital Winterthur. KSW-Font retains the Poppins family including 9 upright weights, from Thin through Black with 9 complementary italics for each. Also retained are the generous vertical metrics originally developed for typesetting alongside the Devanagari script.
 
-Poppins was designed and produced in-house at Indian Type Foundry (ITF) between 2013 and 2016 by Jonny Pinhorn, Ninad Kale, Shiva Nallaperumal, Michelle Parmar, Rahul Gajjar, & Liang Hai.
+Key differences:
+- Devanagari language support has been removed.
+- Default proportional lining figures have been replaced with tabular lining figures. 
 
-## Dependencies
+## Features
 
-(To be specified.)
+The following features are enabled:
+- Tabular figures (tnum)
+- Proportional figures (pnum)
+- ss01: Alternate square punctuation
+- ss02: Alternate single-story /a
+- ss03: Alternate /ampersand 
+- ss04: Alternate figures
+
+## Building
+
+Building the font requires that you have [`uv`](https://github.com/astral-sh/uv) and [`just`](https://github.com/casey/just) installed on your system.
+Once available, simply run `just` in the project directory to produce the static fonts.
+
+## Changelog
+
+**2026-03-19. Version 1.000**
+- This is the first release.
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at
+https://scripts.sil.org/OFL

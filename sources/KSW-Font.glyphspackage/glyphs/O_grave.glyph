@@ -1,0 +1,87 @@
+{
+glyphname = Ograve;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (260,143);
+ref = grave;
+}
+);
+width = 792;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (254,147);
+ref = grave;
+}
+);
+width = 788;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (264,145);
+ref = grave;
+}
+);
+width = 784;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (285,143);
+ref = grave;
+}
+);
+width = 792;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (287,153);
+ref = grave;
+}
+);
+width = 784;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (280,147);
+ref = grave;
+}
+);
+width = 788;
+}
+);
+unicode = 210;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 4;
+};
+}

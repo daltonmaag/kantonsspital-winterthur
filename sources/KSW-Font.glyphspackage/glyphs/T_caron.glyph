@@ -1,0 +1,87 @@
+{
+glyphname = Tcaron;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (72,143);
+ref = caron;
+}
+);
+width = 470;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (127,147);
+ref = caron;
+}
+);
+width = 616;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (129,145);
+ref = caron;
+}
+);
+width = 564;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (97,143);
+ref = caron;
+}
+);
+width = 470;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (155,145);
+ref = caron;
+}
+);
+width = 564;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (153,147);
+ref = caron;
+}
+);
+width = 616;
+}
+);
+unicode = 356;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 8;
+};
+}

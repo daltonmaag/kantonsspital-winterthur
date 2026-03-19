@@ -1,0 +1,93 @@
+{
+glyphname = semicolon;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+pos = (29,455);
+ref = period;
+},
+{
+pos = (20,0);
+ref = comma;
+}
+);
+width = 140;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+pos = (36,381);
+ref = period;
+},
+{
+pos = (22,0);
+ref = comma;
+}
+);
+width = 385;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+pos = (22,420);
+ref = period;
+},
+{
+pos = (27,0);
+ref = comma;
+}
+);
+width = 304;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+pos = (85,455);
+ref = period;
+},
+{
+pos = (20,0);
+ref = comma;
+}
+);
+width = 140;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+pos = (112,420);
+ref = period;
+},
+{
+pos = (27,0);
+ref = comma;
+}
+);
+width = 304;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+pos = (85,381);
+ref = period;
+},
+{
+pos = (-7,0);
+ref = comma;
+}
+);
+width = 385;
+}
+);
+unicode = 59;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 8;
+};
+}

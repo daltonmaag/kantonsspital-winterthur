@@ -1,0 +1,307 @@
+{
+glyphname = plusminus;
+layers = (
+{
+layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(284,635,l),
+(284,165,l),
+(304,165,l),
+(304,635,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(40,391,l),
+(549,391,l),
+(549,409,l),
+(40,409,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(40,91,l),
+(549,91,l),
+(549,109,l),
+(40,109,l)
+);
+}
+);
+width = 589;
+},
+{
+layerId = "A69CC389-2ECF-459C-A4E4-3168912CA6B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(169,630,l),
+(169,146,l),
+(382,146,l),
+(382,630,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(20,344,l),
+(531,344,l),
+(531,545,l),
+(20,545,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(20,96,l),
+(531,96,l),
+(531,297,l),
+(20,297,l)
+);
+}
+);
+width = 551;
+},
+{
+layerId = "4D0F633C-81E1-4D6C-A640-637CE706A5C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,621,l),
+(306,166,l),
+(412,166,l),
+(412,621,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(104,372,l),
+(613,372,l),
+(613,468,l),
+(104,468,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(104,127,l),
+(613,127,l),
+(613,223,l),
+(104,223,l)
+);
+}
+);
+width = 717;
+},
+{
+layerId = "A74DA284-3E8B-4DB3-928B-2F0253F1CAB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,635,l),
+(265,165,l),
+(285,165,l),
+(368,635,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(61,391,l),
+(570,391,l),
+(574,409,l),
+(65,409,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(8,91,l),
+(517,91,l),
+(521,109,l),
+(12,109,l)
+);
+}
+);
+width = 589;
+},
+{
+layerId = "ED744E86-D388-498D-94EB-FEBBBDC8F1CA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(362,621,l),
+(282,166,l),
+(391,166,l),
+(471,621,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(117,369,l),
+(626,369,l),
+(644,471,l),
+(135,471,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(74,124,l),
+(583,124,l),
+(601,225,l),
+(92,225,l)
+);
+}
+);
+width = 717;
+},
+{
+layerId = "15935870-0A58-425A-9765-D144975D2C89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(230,630,l),
+(145,146,l),
+(358,146,l),
+(443,630,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(31,344,l),
+(542,344,l),
+(577,545,l),
+(66,545,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-13,96,l),
+(498,96,l),
+(534,297,l),
+(23,297,l)
+);
+}
+);
+width = 551;
+}
+);
+unicode = 177;
+userData = {
+com.schriftgestaltung.Glyphs.ColorIndex = 3;
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 290;
+y = 630;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 290;
+y = 184;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 305;
+y = 184;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 305;
+y = 630;
+}
+);
+},
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 43;
+y = 392;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 552;
+y = 392;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 552;
+y = 405;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 43;
+y = 405;
+}
+);
+},
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 43;
+y = 150;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 552;
+y = 150;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 552;
+y = 163;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 43;
+y = 163;
+}
+);
+}
+);
+lib = {
+};
+name = plusminus;
+unicodes = (
+);
+width = 589;
+};
+};
+};
+}
